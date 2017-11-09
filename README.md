@@ -8,7 +8,7 @@ webpack学习
 
 # windows跳坑
 
-（由于此文章是基于Mac的）
+（由于此文章的环境是基于Mac写的）
 
 文章最后执行`npm run build`是报错：
 

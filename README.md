@@ -8,6 +8,8 @@ webpack学习
 
 # windows跳坑
 
+（由于此文章是基于Mac的）
+
 文章最后执行`npm run build`是报错：
 
 NODE_ENV不是内部或外部命令,也不是可运行的程序

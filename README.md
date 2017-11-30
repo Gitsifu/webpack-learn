@@ -20,6 +20,6 @@ NODE_ENV不是内部或外部命令,也不是可运行的程序
 
 在运行命令加前缀：在`NODE_ENV=xxxxxxx`前面添加`cross-env`就可以了。 
 
-例如：`"build": "cross-env NODE_ENV=production webpack --config ./webpack.production.config.js --progress"`
+例如(在package.json文件中修改)：`"build": "cross-env NODE_ENV=production webpack --config ./webpack.production.config.js --progress"`
 
 [解决方法原文](http://blog.csdn.net/koufulong/article/details/75270337)
